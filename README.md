@@ -1,1 +1,3 @@
 # MechaNurse
+# Problem Statement
+Covid-19 is a global pandemic. Around 2.71M people have tested positive around the world and around  191K people have passed away (24/04/20)  and the numbers are still Increasing. People getting in hospitals have chance of getting affected. Doctors and nurses who are getting in touch with patients have a High chance of getting affected. If we can reduce the frequency of being in touch of the nurses and doctors with patients we can reduce the chance of getting affected by Covid-19 because the worst thing that we want is the doctors getting affected by Covid-19. I tried to solve this problem using MechaNurse.
